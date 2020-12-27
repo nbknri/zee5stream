@@ -1,0 +1,19 @@
+{
+    "name": "zee5",
+    "version": "1.0.0",
+    "description": "The Ultimate Zee5 Player using Cloudflare Worker",
+    "main": "worker.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cachecleanerjeet/Zee5.git"
+    },
+    "keywords": [
+        "zee5"
+    ],
+    "author": "Tuhin Kanti Pal",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/cachecleanerjeet/Zee5/issues"
+    },
+    "homepage": "https://github.com/cachecleanerjeet/Zee5#readme"
+}
