@@ -14,7 +14,7 @@
 👆 this is the link <code>0-1-manual_6a651ie4f1f0</code> is the video id.<br>
 **You can render a player like this <code>https://yourapp.example.workers.dev/0-1-manual_6a651ie4f1f0</code>**
 
-2. Or you can render a link with url 👇<br>
+2. Or you can render a link using url parameter 👇<br>
 <code>https://yourapp.example.workers.dev/?url=https://www.zee5.com/zee5originals/details/lalbazaar/0-6-2177/ep-1-sleepless-in-kolkata/0-1-manual_6a651ie4f1f0</code>
 
 ### Deploy:
