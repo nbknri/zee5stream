@@ -5,15 +5,15 @@
     "main": "worker.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/cachecleanerjeet/Zee5.git"
+        "url": "git+https://github.com/chittaranjan2020/Zee5stream.git"
     },
     "keywords": [
         "zee5"
     ],
-    "author": "Tuhin Kanti Pal",
+    "author": "Chittaranjan Maharana",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/cachecleanerjeet/Zee5/issues"
+        "url": "https://github.com/chittaranjan2020/Zee5stream/issues"
     },
-    "homepage": "https://github.com/cachecleanerjeet/Zee5#readme"
+    "homepage": "https://github.com/chittaranjan2020/Zee5stream#readme"
 }
